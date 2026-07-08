@@ -1,6 +1,7 @@
 # 🌐 Detilli Hub — Documentação Completa
 
-> Coleção de jogos e ferramentas web criados por Michel Detilli com a ajuda do replit**Detilli Hub**, hospedados no GitHub Pages.  
+> Coleção de jogos e ferramentas web criados por Michel Detilli com a ajuda do replit
+> **Detilli Hub**, hospedados no GitHub Pages.  
 > 100% offline · sem instalação · mobile-friendly · código único por arquivo HTML.
 
 ---
